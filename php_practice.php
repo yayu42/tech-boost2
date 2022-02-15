@@ -1,6 +1,6 @@
 <?php
-function sumab($a,$b){
+function add($a,$b){
     return $a + $b;
 }
-echo sumab(1,6);
+echo add(1,6);
 ?>
