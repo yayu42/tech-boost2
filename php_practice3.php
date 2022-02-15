@@ -2,7 +2,7 @@
 function prodct($arr){
     $result = 0;
     for ($i = 0; $i < count($arr); $i++){
-        if(4i == 0){
+        if($i == 0){
             $result += $arr[$i];
         }else{
             $result *= $arr[$i];
